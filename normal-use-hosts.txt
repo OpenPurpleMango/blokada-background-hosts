@@ -1,0 +1,16 @@
+# This is a list of hosts that Android devices connect to while you are normally using your device
+# (ex. browsing the web or playing games)
+#
+# When contributing please enter the host in the following format:
+# # App Name: (Suspected Application Package Name. Enter the app name if you do not know the package.)
+# # Situation: (Add this to describe what situation caused this host to activate. 
+#              (Ex. browsing the web, texting, phone calls, playing games)
+# # IP : (Resolved Remote IP Address)
+# (Host address)
+
+# Example Contribution
+
+# App Name: com.android.system
+# Situation: Getting a text message
+# IP: 52.207.57.189
+ec2-111-111-111-111.compute-1.amazonaws.com
