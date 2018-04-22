@@ -1,0 +1,13 @@
+# This is a list of hosts that Android devices connect to while they are sleeping.
+# When contributing please enter the host in the following format:
+# # App Name: (Suspected Application Package Name. Enter the app name if you do not know the package.)
+# # Situation: (Optional. Add this to describe what situation caused this host to activate)
+# # IP : (Resolved Remote IP Address)
+# (Host address)
+
+# Example Contribution
+
+# App Name: com.android.system
+# Situation: Sleeping. I dont know anything else
+# IP: 52.207.57.189
+ec2-111-111-111-111.compute-1.amazonaws.com
