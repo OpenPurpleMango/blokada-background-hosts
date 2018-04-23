@@ -3,14 +3,72 @@
 #
 # When contributing please enter the host in the following format:
 # # App Name: (Suspected Application Package Name. Enter the app name if you do not know the package.)
-# # Situation: (Add this to describe what situation caused this host to activate. 
+# # Situation: (Add this to describe what situation caused this host to activate.
 #              (Ex. browsing the web, texting, phone calls, playing games)
 # # IP : (Resolved Remote IP Address)
 # (Host address)
 
 # Example Contribution
 
-# App Name: com.android.system
-# Situation: Getting a text message
+## App Name: air.com.midjiwan.polytopia
+## Situation: Playing a game
 # IP: 52.207.57.189
 ec2-111-111-111-111.compute-1.amazonaws.com
+
+###################################################
+
+## App Name: Unknown
+## Situation: Using the app
+# IP: 34.206.172.224
+ec2-34-206-172-224.compute-1.amazonaws.com
+# IP: 213.186.33.5
+ip-51-254-196.eu
+# IP: 52.204.144.39
+ec2-52-204-144-39.compute-1.amazonaws.com
+# IP: 54.255.195.122
+ec2-54-255-195-122.compute-1.amazonaws.com
+# IP: 34.234.216.198
+ec2-34-234-216-198.compute-1.amazonaws.com
+# IP: 34.236.25.107
+ec2-34-236-25-107.compute-1.amazonaws.com
+# IP: 2607:f8b0:4000:813::200a
+dfw25s26-in-x0a.1e100.net
+# IP: 193.0.6.150
+stat.ripe.net
+# IP: 172.217.9.170
+dfw25s27-in-f10.1e100.net
+# IP: 172.217.9.170
+dfw25s26-in-x0a.1e100.net
+
+## App Name: com.fastaccess.github.libre
+## Situation: Using the app
+# IP: 54.243.53.119
+ec2-54-243-53-119.compute-1.amazonaws.com
+# IP: 54.243.144.116
+ec2-54-243-144-116.compute-1.amazonaws.com
+
+## App Name: com.syntellia.fleksy.keyboard
+## Situation: Using the app
+# IP: 13.32.172.55
+server-13-32-172-55.dfw54.r.cloudfront.net
+
+## App Name: com.teslacoilsw.launcherclientproxy
+## Situation: Using the app
+# IP: 184.73.189.67
+ec2-184-73-189-67.compute-1.amazonaws.com
+
+## App Name: com.teslacoilsw.launcher
+## Situation: Using the app
+# IP:23.23.93.27
+ec2-23-23-93-27.compute-1.amazonaws.com
+# IP:54.243.54.19
+ec2-54-243-54-19.compute-1.amazonaws.com
+# IP:54.225.157.70
+ec2-54-225-157-70.compute-1.amazonaws.com
+# IP: 23.21.152.175
+ec2-23-21-152-175.compute-1.amazonaws.com
+
+## App Name: org.blokada.origin.alarm
+## Situation: Using the app
+# IP: 52.72.49.78
+ec2-52-72-49-79.compute-1.amazonaws.com

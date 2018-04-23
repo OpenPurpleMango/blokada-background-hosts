@@ -7,7 +7,178 @@
 
 # Example Contribution
 
-# App Name: com.android.system
-# Situation: Sleeping. I dont know anything else
+## App Name: com.android.system
+## Situation: Sleeping. I don't know anything else
 # IP: 52.207.57.189
 ec2-111-111-111-111.compute-1.amazonaws.com
+
+###################################################
+
+## App Name: com.android.vending
+## Situation: Sleeping
+# IP: 74.125.69.101
+iq-in-f101.1e100.net
+# IP: 64.233.182.101
+is-in-f101.1e100.net
+# IP: 64.233.181.101
+ir-in-f101.1e100.net
+# IP: 74.125.198.138, 74.125.238.138
+og-in-f138.1e100.net
+# IP: 74.125.69.100
+iq-in-f100.1e100.net
+# IP: 64.233.181.100
+ir-in-f100.1e100.net
+# IP: 74.125.70.95
+il-in-f95.1e100.net
+# IP: 74.125.202.95
+io-in-f95.1e100.net
+# IP: 2607:f8b0:4001:c1d::5f
+ik-in-x5f.1e100.net
+
+## App Name: System/Unknown
+## Situation: Sleeping
+# IP: 2607:f8b0:4000:814::200a
+dfw25s27-in-x0a.1e100.net
+# IP: 2607:f8b0:4000:811::200a
+dfw28s01-in-x0a.1e100.net
+# IP: 2607:f8b0:4000:803::200a
+dfw25s13-in-x0a.1e100.net
+# IP: 2607:f8b0:4000:815::200a
+dfw28s04-in-x0a.1e100.net
+# IP: 64.233.191.100
+ja-in-f100.1e100.net
+# IP: 2607:f8b0:4001:c1d::5f
+ik-in-x5f.1e100.net
+# IP: 74.125.238.138
+is-in-f138.1e100.net
+# IP: 74.125.238.139
+is-in-f139.1e100.net
+# IP: 74.125.238.138
+iq-in-f138.1e100.net
+# IP: 64.233.191.138
+ja-in-f138.1e100.net
+# IP: 2607:f8b0:4000:80f::2004
+dfw25s16-in-x04.1e100.net
+# IP: 216.58.194.78
+dfw25s13-in-f78.1e100.net
+# IP: 64.233.183.138
+it-in-f138.1e100.net
+# IP: 2607:f8b0:4000:804::200a
+dfw25s17-in-x0a.1e100.net
+# IP: 74.125.69.101
+iq-in-f101.1e100.net
+# IP: 64.233.181.101
+ir-in-f101.1e100.net
+# IP: 2607:f8b0:4001:c20::61
+jg-in-x61.1e100.net
+# IP: 2607:f8b0:4000:814::2008
+dfw25s27-in-x08.1e100.net
+# IP: 172.217.1.238
+dfw25s25-in-f14.1e100.net
+# IP: 2607:f8b0:4000:80e::200a
+dfw25s25-in-x0a.1e100.net
+# IP: 2607:f8b0:4000:812::2008
+dfw28s02-in-x08.1e100.net
+# IP: 216.58.218.174
+dfw06s46-in-f14.1e100.net
+# IP: 172.217.6.174
+dfw25s17-in-f174.1e100.net
+# IP: 216.58.218.206
+dfw06s47-in-f14.1e100.net
+# IP: 2607:f8b0:4000:80f::200e
+dfw25s16-in-x0e.1e100.net
+# IP: 2607:f8b0:4001:c1e::61
+jd-in-x61.1e100.net
+# IP: 2607:f8b0:4001:c06::61
+io-in-x61.1e100.net
+# IP: 2607:f8b0:4001:c08::61
+iq-in-x61.1e100.net
+# IP: 216.58.194.110
+dfw06s48-in-f14.1e100.net
+# IP: 74.125.69.100
+iq-in-f100.1e100.net
+# IP: 2607:f8b0:4001:c20::bc
+jg-in-xbc.1e100.net
+# IP: 74.125.45.188
+ok-in-f188.1e100.net
+# IP: 2607:f8b0:4001:c08::5f
+iq-in-x5f.1e100.net
+# IP: 2607:f8b0:4000:811::200a
+dfw28s01-in-x0a.1e100.net
+# IP: 64.233.183.102
+it-in-f102.1e100.net
+# IP: 2607:f8b0:4000:806::200a
+dfw28s22-in-x0a.1e100.net
+# IP: 2607:f8b0:4000:813::2008
+dfw25s26-in-x08.1e100.net
+# IP: 74.125.69.113
+iq-in-f113.1e100.net
+# IP: 2607:f8b0:4000:814::200a
+dfw25s27-in-x0a.1e100.net
+# IP: 2607:f8b0:4000:80d::200a
+dfw06s49-in-x0a.1e100.net
+# IP: 2607:f8b0:4000:811::200a
+dfw28s01-in-x0a.1e100.net
+# IP: 2607:f8b0:4000:803::200a
+dfw25s13-in-x0a.1e100.net
+# IP: 2607:f8b0:4000:815::200a
+dfw28s04-in-x0a.1e100.net
+# IP: 2607:f8b0:4001:c0e::5f
+jc-in-x5f.1e100.net
+# IP: 2607:f8b0:4001:c20::69
+jg-in-x69.1e100.net
+# IP: 2607:f8b0:4001:c1c::5f
+iz-in-x5f.1e100.net
+# IP: 54.243.144.116
+ec2-54-243-144-116.compute-1.amazonaws.com
+
+## App Name: com.google.android.dialer
+## Situation: Sleeping
+# IP: 2607:f8b0:4001:c08::5f
+iq-in-x5f.1e100.net
+# IP: 2607:f8b0:4001:c1d::5f
+ik-in-x5f.1e100.net
+
+## App Name: com.google.android.apps.translate
+## Situation: sleeping
+# IP: 2607:f8b0:4000:804::200e
+dfw25s17-in-x0e.1e100.net 	United States flag
+
+## App Name: com.getkeepsafe.applock
+## Situation: Sleeping
+# IP: 54.243.182.248
+ec2-54-243-182-248.compute-1.amazonaws.com
+# IP: 54.225.149.60
+ec2-54-225-149-60.compute-1.amazonaws.com
+
+## App Name: com.ideashower.readitlater.pro
+## Situation: Sleeping
+# IP: 34.205.101.41
+ec2-34-205-101-41.compute-1.amazonaws.com
+
+## App Name: com.ChillyRoom.DungeonShooter
+## Situation: Sleeping
+# IP: 34.209.95.201
+ec2-34-209-95-201.us-west-2.compute.amazonaws.com
+# IP: 18.236.33.245
+ec2-18-236-33-245.us-west-2.compute.amazonaws.com
+
+## App Name: com.whatsapp
+## Situation: Sleeping, checking for messages in background
+# IP: 2a03:2880:f234:c6:face:b00c::167
+whatsapp-cdn6-shv-01-dfw5.fbcdn.net
+# IP: 2a03:2880:f227:c5:face:b00c::167
+whatsapp-cdn6-shv-01-ort2.fbcdn.net
+# IP: 2a03:2880:f227:2c5:face:b00c::167
+whatsapp-cdn6-shv-02-ort2.fbcdn.net
+# IP: 2607:f8b0:4001:c20::8a
+jg-in-x8a.1e100.net
+# IP: 169.47.5.241
+f1.05.2fa9.ip4.static.sl-reverse.com
+
+## App Name: com.google.android.apps.photos
+## Situation: Sleeping
+# IP: 2607:f8b0:4001:c1a::5f
+ix-in-x5f.1e100.net
+# IP: 2607:f8b0:4001:c16::5f
+jl-in-x5f.1e100.net

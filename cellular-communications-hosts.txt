@@ -2,15 +2,21 @@
 #
 # When contributing please enter the host in the following format:
 # # App Name: (Suspected Application Package Name. Enter the app name if you do not know the package.)
-# # Situation: (Add this to describe what situation caused this host to activate. 
+# # Situation: (Add this to describe what situation caused this host to activate.
 #              (Ex. texting or phone calls)
 # # IP : (Resolved Remote IP Address)
 # (Host address)
 ​
 # Example Contribution
 ​
-# App Name: com.android.system
-# Situation: Getting a text message
+## App Name: com.android.system
+## Situation: Getting a text message
 # IP: 52.207.57.189
 ec2-111-111-111-111.compute-1.amazonaws.com
 ​
+###################################################
+
+## App Name: xyz.klinker.messenger
+## Situation: Getting a text message
+# IP: 23.23.96.77
+ec2-23-23-96-77.compute-1.amazonaws.com
